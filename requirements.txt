@@ -21,7 +21,7 @@ Django-static-sitemaps==4.6.0
 Django-storages==1.9.1
 Django-tinymce==3.0.2
 Djangocms-text-ckeditor==3.9.0
-Djangorestframework==3.11.0
+Djangorestframework==3.11.2
 boto3==1.12.46
 markdown2==2.3.8
 gunicorn==20.0.4
