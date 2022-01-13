@@ -5,7 +5,7 @@ Django-anymail==7.1.0
 Django-autoslug==1.9.7
 Django-braces==1.14.0
 Django-ckeditor-filebrowser-filer==0.3.0
-Django-cms==3.7.2
+Django-cms==3.7.4
 Django-cors-headers==3.2.1
 Django-crispy-forms==1.9.0
 Django-environ==0.4.5
